@@ -20,15 +20,15 @@ namespace Pages.Login
       //  private static string RegisterFormAdress = $"{Localhost}/opencart/index.php?route=account/register";//адреса форми реєстрації url
         private static string LoginToggleElement = "/html/body/nav/div/div[2]/ul/li[2]/a";//випадаючий список головної сторінки вибір ЛОГІН/Реєстрація XPath
         private static string LoginButtonToggleElement = "/html/body/nav/div/div[2]/ul/li[2]/ul/li[2]/a";//пункт випадаючого списку що вказує на форму логін XPath
-        private static string LoginButtonToInByClass = "btn btn-primary";//елемент кнопка LOGIN для форми логування щоб увійти class
-        private static string RegisterFirstNameId = "input-firstname";//поле ім'я для форми реєстрації id
-        private static string RegisterLastNameId = "input-lastname";//поле прізвище для форми реєстрації id
-        private static string RegisterEmailId = "input-email";//поле емейл для форми реєстрації id
-        private static string RegisterTelephoneId = "input-telephone";//поле емейл для форми реєстрації id
-        private static string RegisterPasswordId = "input-password";//поле пароль для форми реєстрації id
-        private static string RegisterPasswordConfirmId = "input-confirm";//поле підтвердження паролю для форми реєстрації id
-        private static string RegisterCheckboxByName = "agree";//погодитись з політикою петра порошенка для форми реєстрації name
-        private static string RegisterButtonContinueBySelector = "#content > div > div:nth-child(2) > div > form > input";//кнопка продовжити для форми реєстрації перехід на ішшу сторінку class
+        private static string LoginButtonToInByXPath = "/html/body/div[2]/div/div/div/div[2]/div/form/input";//елемент кнопка LOGIN для форми логування щоб увійти XPath
+        //private static string RegisterFirstNameId = "input-firstname";//поле ім'я для форми реєстрації id
+        //private static string RegisterLastNameId = "input-lastname";//поле прізвище для форми реєстрації id
+        //private static string RegisterEmailId = "input-email";//поле емейл для форми реєстрації id
+        //private static string RegisterTelephoneId = "input-telephone";//поле емейл для форми реєстрації id
+        //private static string RegisterPasswordId = "input-password";//поле пароль для форми реєстрації id
+        //private static string RegisterPasswordConfirmId = "input-confirm";//поле підтвердження паролю для форми реєстрації id
+        //private static string RegisterCheckboxByName = "agree";//погодитись з політикою петра порошенка для форми реєстрації name
+        //private static string RegisterButtonContinueBySelector = "#content > div > div:nth-child(2) > div > form > input";//кнопка продовжити для форми реєстрації перехід на ішшу сторінку class
 
 
         public static void goToSite(IWebDriver driver, string site)
@@ -122,7 +122,7 @@ namespace Pages.Login
             ByIdWriteElement(driver, EmailFiledId, account.Email);
             ByIdClickElement(driver, PasswordFiledId);
             ByIdWriteElement(driver, PasswordFiledId, account.Password);
-            ByClassNameClickElement(driver, LoginButtonToInByClass);
+            XPathClickElement(driver, LoginButtonToInByXPath);
         }
 
     }
