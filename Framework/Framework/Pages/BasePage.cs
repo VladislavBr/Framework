@@ -45,14 +45,14 @@ namespace Pages.Login
             driver.FindElement(By.XPath(IdAdress)).SendKeys(fildText);
         }
 
-        public static void CssClickElement(IWebDriver driver, string CssAdress)
-        {
-            driver.FindElement(By.CssSelector(CssAdress)).Click();
-        }
-        public static void CssWriteElement(IWebDriver driver, string IdAdress, string fildText)
-        {
-            driver.FindElement(By.CssSelector(IdAdress)).SendKeys(fildText);
-        }
+        //public static void CssClickElement(IWebDriver driver, string CssAdress)
+        //{
+        //    driver.FindElement(By.CssSelector(CssAdress)).Click();
+        //}
+        //public static void CssWriteElement(IWebDriver driver, string IdAdress, string fildText)
+        //{
+        //    driver.FindElement(By.CssSelector(IdAdress)).SendKeys(fildText);
+        //}
 
         public static void ByNameClickElement(IWebDriver driver, string NameAdress)
         {
@@ -81,14 +81,14 @@ namespace Pages.Login
             driver.FindElement(By.ClassName(IdAdress)).SendKeys(fildText);
         }
 
-        public static void ByTagNameClickElement(IWebDriver driver, string TagNameAdress)
-        {
-            driver.FindElement(By.TagName(TagNameAdress)).Click();
-        }
-        public static void ByTegWriteElement(IWebDriver driver, string IdAdress, string fildname)
-        {
-            driver.FindElement(By.TagName(IdAdress)).SendKeys(fildname);
-        }
+        //public static void ByTagNameClickElement(IWebDriver driver, string TagNameAdress)
+        //{
+        //    driver.FindElement(By.TagName(TagNameAdress)).Click();
+        //}
+        //public static void ByTegWriteElement(IWebDriver driver, string IdAdress, string fildname)
+        //{
+        //    driver.FindElement(By.TagName(IdAdress)).SendKeys(fildname);
+        //}
 
         //public  void Registration(IWebDriver driver, Account account)
         //{
