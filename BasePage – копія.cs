@@ -94,17 +94,11 @@ namespace Login
         public static void Registration(IWebDriver driver, Authorization account)
         {
             goToSite(driver, account.BaseSiteAdress);
-            ByIdClickElement(driver, RegisterFirstNameId);
             ByIdWriteElement(driver, RegisterFirstNameId, "Name");
-            ByIdClickElement(driver, RegisterLastNameId);
             ByIdWriteElement(driver, RegisterLastNameId, "LName");
-            ByIdClickElement(driver, RegisterEmailId);
             ByIdWriteElement(driver, RegisterEmailId, account.Email);
-            ByIdClickElement(driver, RegisterTelephoneId);
             ByIdWriteElement(driver, RegisterTelephoneId, "0123224532");
-            ByIdClickElement(driver, RegisterPasswordId);
             ByIdWriteElement(driver, RegisterPasswordId, account.Password);
-            ByIdClickElement(driver, RegisterPasswordConfirmId);
             ByIdWriteElement(driver, RegisterPasswordConfirmId, account.Password);
             ByNameClickElement(driver, RegisterCheckboxByName);
             ByClassNameClickElement(driver, RegisterButtonContinueByClass);
@@ -119,9 +113,7 @@ namespace Login
             goToSite(driver, account.BaseSiteAdress);
             XPathClickElement(driver, account.LoginToggleElement);
             XPathClickElement(driver, account.LoginButtonToggleElement);
-            ByIdClickElement(driver, EmailFiledId);
             ByIdWriteElement(driver, EmailFiledId, account.Email);
-            ByIdClickElement(driver, PasswordFiledId);
             ByIdWriteElement(driver, PasswordFiledId, account.Password);
             ByClassNameClickElement(driver, LoginButtonToInByClass);
         }
