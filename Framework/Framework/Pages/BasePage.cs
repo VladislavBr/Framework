@@ -11,7 +11,7 @@ namespace Pages.Login
 {
     public class AutorizationPage
     {
-        public static string host = "https://demo.opencart.com/index.php?route=account/login";
+        public static string LoginPage = "https://demo.opencart.com/index.php?route=account/login";
         public string FindElementTeg;
         private static string EmailFiledId = "input-email";//поле емейл для реєстрації та авторизації однакове id
         private static string PasswordFiledId = "input-password";//поле пароль для реєстрації та авторизації однакове id
@@ -110,12 +110,12 @@ namespace Pages.Login
         //}
         public static void SiteBasePage(IWebDriver driver, Account account)
         {
-            goToSite(driver, host);
+            goToSite(driver, LoginPage);
         }
 
         public static void AuthorizationPageTest(IWebDriver driver, Account account)
         {
-            goToSite(driver, host);
+            goToSite(driver, LoginPage);
             XPathClickElement(driver, LoginToggleElement);
             XPathClickElement(driver, LoginButtonToggleElement);
             ByIdClickElement(driver, EmailFiledId);
