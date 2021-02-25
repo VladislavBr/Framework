@@ -31,7 +31,7 @@ namespace Framework.Test
 		{
 			Account account = new Account("kover18595@geeky83.com", "hahaitwork");
 			//Step
-			Pages.Login.AutorizationPage.AuthorizationPageTest(driver, account);
+			AutorizationPage.AuthorizationPageTest(driver, account);
 
 			Assert.AreEqual("2","2");
 			driver.Quit();
