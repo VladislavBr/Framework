@@ -74,11 +74,5 @@ namespace Pages
             wait.Until(d => d.FindElement(By.XPath("/html/body/div[2]/div/div/div[2]/div/div[1]/ul/li")));
         }
 
-        public Authorization(string Login, string Password)
-        {
-            this.Login = Login;
-            this.Password = Password;
-        }
-
     }
 }

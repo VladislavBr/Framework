@@ -7,7 +7,8 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
-using Pages.Login;
+using Pages;
+using Data;
 
 namespace Framework.Test
 {
@@ -29,12 +30,12 @@ namespace Framework.Test
 		[Test]
 		public void AutorizationPageTest()
 		{
+			//give
 			Account account = new Account("kover18595@geeky83.com", "hahaitwork");
 			//Step
 			AutorizationPage.AuthorizationPageTest(driver, account);
-
-			Assert.AreEqual("2","2");
-			driver.Quit();
+			//Verefication
+			Assert.AreEqual(driver.Url, AutorizationPage.loginPageVereficationUrl);
 		}
 	}
 }

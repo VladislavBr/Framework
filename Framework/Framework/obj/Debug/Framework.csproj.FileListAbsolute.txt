@@ -47,3 +47,4 @@ C:\Users\Vlad\Desktop\Music\Framework\Framework\bin\Debug\WebDriver.xml
 C:\Users\Vlad\Desktop\Music\Framework\Framework\obj\Debug\Framework.csproj.CopyComplete
 C:\Users\Vlad\Desktop\Music\Framework\Framework\obj\Debug\Framework.dll
 C:\Users\Vlad\Desktop\Music\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\Vlad\Documents\GitHub\Framework\Framework\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
