@@ -64,8 +64,9 @@
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Pages\ShowAllCategotiesPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test\AutorizationTest.cs" />
-    <Compile Include="Test\CheckPageItemsTest.cs" />
+    <Compile Include="Test\BrowserOption.cs" />
+    <Compile Include="Test\TestUI\AutorizationTest.cs" />
+    <Compile Include="Test\TestUI\CheckPageItemsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
