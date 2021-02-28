@@ -9,6 +9,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using Pages;
 using Data;
+using Framework.Data.User;
 
 namespace Framework.Test
 {
@@ -19,7 +20,7 @@ namespace Framework.Test
 		[OneTimeSetUp]
 		public void StartTest()
 		{
-			driver = new ChromeDriver();
+			driver = new ChromeDriver(BrowserOption.BrowserSettings());
 			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 		}
 		[OneTimeTearDown]
@@ -30,10 +31,8 @@ namespace Framework.Test
 		[Test]
 		public void AutorizationPageTest()
 		{
-			//give
-			Account account = new Account("kover18595@geeky83.com", "hahaitwork");
 			//Step
-			AutorizationPage.AuthorizationPageTest(driver, account);
+			AutorizationPage.AuthorizationPageTest(driver, User.GetUser());
 			//Verefication
 			Assert.AreEqual(driver.Url, AutorizationPage.loginPageVereficationUrl);
 		}

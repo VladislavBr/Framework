@@ -20,7 +20,7 @@ namespace Framework.Test
 		[OneTimeSetUp]
 		public void StartTest()
 		{
-			driver = new ChromeDriver(BrowserOption.FirstOption());
+			driver = new ChromeDriver(BrowserOption.BrowserSettings());
 			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 			BasePage.goToSite(driver);
 		}
@@ -32,8 +32,7 @@ namespace Framework.Test
 		[Test]
 		public void CheckDesktops()
 		{
-			//Step
-			//driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(2);			
+			//Step	
 			BasePage.MouseHover(driver, BasePage.Desctops);
 			BasePage.ClickButton(driver, "xpatch", BasePage.DesctopsShowAllDesktops);
 			//Verefication
