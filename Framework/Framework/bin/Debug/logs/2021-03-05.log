@@ -1,0 +1,17 @@
+2021-03-05 18:02:04.6184 INFO Start Get Token test
+2021-03-05 18:02:06.9591 INFO Start read cart test
+2021-03-05 18:02:06.9631 INFO Read file from apiData.txt
+2021-03-05 18:02:06.9631 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:02:06.9631 INFO Try read cart
+2021-03-05 18:02:07.0791 INFO Start add product test
+2021-03-05 18:02:07.0791 INFO Read file from apiData.txt
+2021-03-05 18:02:07.0791 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:02:07.0791 INFO Try add product to cart
+2021-03-05 18:02:07.0791 INFO End add product test
+2021-03-05 18:02:07.0921 INFO Start remove product test
+2021-03-05 18:02:07.0921 INFO Read file from apiData.txt
+2021-03-05 18:02:07.0921 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:02:13.5463 INFO Start check product test
+2021-03-05 18:02:13.5463 INFO Read file from apiData.txt
+2021-03-05 18:02:13.5463 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:02:13.5563 INFO Start check remove product test
