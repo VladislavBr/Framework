@@ -1,0 +1,723 @@
+2021-03-05 18:40:34.6623 INFO Start Get Token test
+2021-03-05 18:40:35.0300 INFO Start read cart test
+2021-03-05 18:40:35.0300 INFO Read file from apiData.txt
+2021-03-05 18:40:35.0300 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:40:35.0421 INFO Try read cart
+2021-03-05 18:40:35.0830 INFO Start add product test
+2021-03-05 18:40:35.0830 INFO Read file from apiData.txt
+2021-03-05 18:40:35.0890 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:40:35.0890 INFO Try add product to cart
+2021-03-05 18:40:35.0890 INFO End add product test
+2021-03-05 18:40:35.0890 INFO Start remove product test
+2021-03-05 18:40:35.1032 INFO Read file from apiData.txt
+2021-03-05 18:40:35.1032 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:40:38.0068 INFO Start check product test
+2021-03-05 18:40:38.0188 INFO Read file from apiData.txt
+2021-03-05 18:40:38.0188 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:40:38.0328 INFO Start check remove product test
+2021-03-05 18:42:05.7511 INFO Start Get Token test
+2021-03-05 18:42:06.1421 INFO Start read cart test
+2021-03-05 18:42:06.1510 INFO Read file from apiData.txt
+2021-03-05 18:42:06.1510 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:42:06.1611 INFO Try read cart
+2021-03-05 18:42:06.1751 INFO Start add product test
+2021-03-05 18:42:06.1751 INFO Read file from apiData.txt
+2021-03-05 18:42:06.1751 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:42:06.1926 INFO Try add product to cart
+2021-03-05 18:42:06.1926 INFO End add product test
+2021-03-05 18:42:06.1926 INFO Start remove product test
+2021-03-05 18:42:06.2061 INFO Read file from apiData.txt
+2021-03-05 18:42:06.2061 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:42:06.7360 INFO Start check product test
+2021-03-05 18:42:06.7390 INFO Read file from apiData.txt
+2021-03-05 18:42:06.7390 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:42:06.7550 INFO Start check remove product test
+2021-03-05 18:45:32.3007 INFO Start Get Token test
+2021-03-05 18:45:32.7326 INFO Start read cart test
+2021-03-05 18:45:32.7457 INFO Read file from apiData.txt
+2021-03-05 18:45:32.7457 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:45:32.7457 INFO Try read cart
+2021-03-05 18:45:32.7656 INFO Start add product test
+2021-03-05 18:45:32.7656 INFO Read file from apiData.txt
+2021-03-05 18:45:32.7706 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:45:32.7706 INFO Try add product to cart
+2021-03-05 18:45:32.7706 INFO End add product test
+2021-03-05 18:45:32.7706 INFO Start remove product test
+2021-03-05 18:45:32.7866 INFO Read file from apiData.txt
+2021-03-05 18:45:32.7866 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:45:33.3026 INFO Start check product test
+2021-03-05 18:45:33.3026 INFO Read file from apiData.txt
+2021-03-05 18:45:33.3026 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:45:33.3276 INFO Start check remove product test
+2021-03-05 18:53:49.1253 INFO Start Get Token test
+2021-03-05 18:53:49.8422 INFO Start read cart test
+2021-03-05 18:53:49.8474 INFO Read file from apiData.txt
+2021-03-05 18:53:49.8474 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:53:49.8474 INFO Try read cart
+2021-03-05 18:53:49.8642 INFO Start add product test
+2021-03-05 18:53:49.8642 INFO Read file from apiData.txt
+2021-03-05 18:53:49.8642 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:53:49.8642 INFO Try add product to cart
+2021-03-05 18:53:49.8782 INFO End add product test
+2021-03-05 18:53:49.8782 INFO Start remove product test
+2021-03-05 18:53:49.8782 INFO Read file from apiData.txt
+2021-03-05 18:53:49.8782 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:53:50.5082 INFO Start check product test
+2021-03-05 18:53:50.5082 INFO Read file from apiData.txt
+2021-03-05 18:53:50.5082 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:53:50.5242 INFO Start check remove product test
+2021-03-05 18:59:03.2170 INFO Start Get Token test
+2021-03-05 18:59:04.1634 INFO Start read cart test
+2021-03-05 18:59:04.1634 INFO Read file from apiData.txt
+2021-03-05 18:59:04.1717 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:04.1717 INFO Try read cart
+2021-03-05 18:59:04.2044 INFO Start add product test
+2021-03-05 18:59:04.2044 INFO Read file from apiData.txt
+2021-03-05 18:59:04.2044 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:04.2044 INFO Try add product to cart
+2021-03-05 18:59:04.2198 INFO End add product test
+2021-03-05 18:59:04.2198 INFO Start remove product test
+2021-03-05 18:59:04.2198 INFO Read file from apiData.txt
+2021-03-05 18:59:04.2198 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:05.3244 INFO Start check product test
+2021-03-05 18:59:05.3264 INFO Read file from apiData.txt
+2021-03-05 18:59:05.3264 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:05.3424 INFO Start check remove product test
+2021-03-05 18:59:53.9458 INFO Start Get Token test
+2021-03-05 18:59:54.5308 INFO Start read cart test
+2021-03-05 18:59:54.5308 INFO Read file from apiData.txt
+2021-03-05 18:59:54.5308 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:54.5418 INFO Try read cart
+2021-03-05 18:59:54.5418 INFO Start add product test
+2021-03-05 18:59:54.5418 INFO Read file from apiData.txt
+2021-03-05 18:59:54.5588 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:54.5588 INFO Try add product to cart
+2021-03-05 18:59:54.5588 INFO End add product test
+2021-03-05 18:59:54.5728 INFO Start remove product test
+2021-03-05 18:59:54.5728 INFO Read file from apiData.txt
+2021-03-05 18:59:54.5728 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:55.1750 INFO Start check product test
+2021-03-05 18:59:55.1750 INFO Read file from apiData.txt
+2021-03-05 18:59:55.1750 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 18:59:55.1957 INFO Start check remove product test
+2021-03-05 19:01:20.8738 INFO Start Get Token test
+2021-03-05 19:01:21.3997 INFO Start read cart test
+2021-03-05 19:01:21.3997 INFO Read file from apiData.txt
+2021-03-05 19:01:21.3997 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:01:21.4107 INFO Try read cart
+2021-03-05 19:01:21.4107 INFO Start add product test
+2021-03-05 19:01:21.4267 INFO Read file from apiData.txt
+2021-03-05 19:01:21.4267 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:01:21.4267 INFO Try add product to cart
+2021-03-05 19:01:21.4267 INFO End add product test
+2021-03-05 19:01:21.4427 INFO Start remove product test
+2021-03-05 19:01:21.4427 INFO Read file from apiData.txt
+2021-03-05 19:01:21.4427 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:01:22.0047 INFO Start check product test
+2021-03-05 19:01:22.0047 INFO Read file from apiData.txt
+2021-03-05 19:01:22.0047 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:01:22.0247 INFO Start check remove product test
+2021-03-05 19:06:51.8594 INFO Start Get Token test
+2021-03-05 19:06:53.5023 INFO Start read cart test
+2021-03-05 19:06:53.5083 INFO Read file from apiData.txt
+2021-03-05 19:06:53.5083 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:06:53.5083 INFO Try read cart
+2021-03-05 19:06:53.5503 INFO Start add product test
+2021-03-05 19:06:53.5543 INFO Read file from apiData.txt
+2021-03-05 19:06:53.5543 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:06:53.5543 INFO Try add product to cart
+2021-03-05 19:06:53.5543 INFO End add product test
+2021-03-05 19:06:53.5703 INFO Start remove product test
+2021-03-05 19:06:53.5703 INFO Read file from apiData.txt
+2021-03-05 19:06:53.5703 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:06:54.1053 INFO Start check product test
+2021-03-05 19:06:54.1053 INFO Read file from apiData.txt
+2021-03-05 19:06:54.1053 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:06:54.1253 INFO Start check remove product test
+2021-03-05 19:08:36.5888 INFO Start Get Token test
+2021-03-05 19:08:40.0366 INFO Start read cart test
+2021-03-05 19:08:40.0496 INFO Read file from apiData.txt
+2021-03-05 19:08:40.0496 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:08:40.0496 INFO Try read cart
+2021-03-05 19:08:40.0836 INFO Start add product test
+2021-03-05 19:08:40.0836 INFO Read file from apiData.txt
+2021-03-05 19:08:40.0836 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:08:40.0966 INFO Try add product to cart
+2021-03-05 19:08:40.0966 INFO End add product test
+2021-03-05 19:08:40.1127 INFO Start remove product test
+2021-03-05 19:08:40.1127 INFO Read file from apiData.txt
+2021-03-05 19:08:40.1127 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:08:40.7806 INFO Start check product test
+2021-03-05 19:08:40.7846 INFO Read file from apiData.txt
+2021-03-05 19:08:40.7846 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:08:40.8086 INFO Start check remove product test
+2021-03-05 19:11:28.5340 INFO Start Get Token test
+2021-03-05 19:11:32.4249 INFO Start read cart test
+2021-03-05 19:11:32.4249 INFO Read file from apiData.txt
+2021-03-05 19:11:32.4359 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:11:32.4359 INFO Try read cart
+2021-03-05 19:11:32.4798 INFO Start add product test
+2021-03-05 19:11:32.4879 INFO Read file from apiData.txt
+2021-03-05 19:11:32.4879 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:11:32.4879 INFO Try add product to cart
+2021-03-05 19:11:32.5029 INFO End add product test
+2021-03-05 19:11:32.5029 INFO Start remove product test
+2021-03-05 19:11:32.5029 INFO Read file from apiData.txt
+2021-03-05 19:11:32.5131 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:11:33.1708 INFO Start check product test
+2021-03-05 19:11:33.1708 INFO Read file from apiData.txt
+2021-03-05 19:11:33.1708 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:11:33.1899 INFO Start check remove product test
+2021-03-05 19:13:14.7896 INFO Start Get Token test
+2021-03-05 19:13:16.0616 INFO Start read cart test
+2021-03-05 19:13:16.0616 INFO Read file from apiData.txt
+2021-03-05 19:13:16.0616 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:13:16.0728 INFO Try read cart
+2021-03-05 19:13:16.0996 INFO Start add product test
+2021-03-05 19:13:16.0996 INFO Read file from apiData.txt
+2021-03-05 19:13:16.1055 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:13:16.1055 INFO Try add product to cart
+2021-03-05 19:13:16.1055 INFO End add product test
+2021-03-05 19:13:16.1195 INFO Start remove product test
+2021-03-05 19:13:16.1195 INFO Read file from apiData.txt
+2021-03-05 19:13:16.1195 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:13:16.6445 INFO Start check product test
+2021-03-05 19:13:16.6445 INFO Read file from apiData.txt
+2021-03-05 19:13:16.6525 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:13:16.6665 INFO Start check remove product test
+2021-03-05 19:14:44.5222 INFO Start Get Token test
+2021-03-05 19:14:47.6711 INFO Try write file to apiData.txt
+2021-03-05 19:14:47.6711 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:14:47.6711 INFO End Get Token test
+2021-03-05 19:14:47.6831 INFO Start read cart test
+2021-03-05 19:14:47.6831 INFO Read file from apiData.txt
+2021-03-05 19:14:47.6831 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:14:47.6981 INFO Try read cart
+2021-03-05 19:14:47.9541 INFO Start add product test
+2021-03-05 19:14:47.9541 INFO Read file from apiData.txt
+2021-03-05 19:14:47.9541 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:14:47.9631 INFO Try add product to cart
+2021-03-05 19:14:47.9631 INFO End add product test
+2021-03-05 19:14:47.9631 INFO Start remove product test
+2021-03-05 19:14:47.9771 INFO Read file from apiData.txt
+2021-03-05 19:14:47.9771 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:14:48.4970 INFO Start check product test
+2021-03-05 19:14:48.4970 INFO Read file from apiData.txt
+2021-03-05 19:14:48.4970 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:14:48.5150 INFO Start check remove product test
+2021-03-05 19:16:51.4388 INFO Start Get Token test
+2021-03-05 19:16:52.8768 INFO Try write file to apiData.txt
+2021-03-05 19:16:52.8818 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:16:52.8818 INFO End Get Token test
+2021-03-05 19:16:52.8818 INFO Start read cart test
+2021-03-05 19:16:52.8818 INFO Read file from apiData.txt
+2021-03-05 19:16:52.8948 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:16:52.8948 INFO Try read cart
+2021-03-05 19:16:54.5437 INFO Start add product test
+2021-03-05 19:16:54.5437 INFO Read file from apiData.txt
+2021-03-05 19:16:54.5437 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:16:54.5517 INFO Try add product to cart
+2021-03-05 19:16:54.6777 INFO End add product test
+2021-03-05 19:16:54.6777 INFO Start remove product test
+2021-03-05 19:16:54.6777 INFO Read file from apiData.txt
+2021-03-05 19:16:54.6917 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:16:55.3117 INFO Start check product test
+2021-03-05 19:16:55.3117 INFO Read file from apiData.txt
+2021-03-05 19:16:55.3177 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:16:55.3177 INFO Start check remove product test
+2021-03-05 19:21:30.1468 INFO Start Get Token test
+2021-03-05 19:21:31.4567 INFO Try write file to apiData.txt
+2021-03-05 19:21:31.4567 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:21:31.4567 INFO End Get Token test
+2021-03-05 19:21:31.4667 INFO Start read cart test
+2021-03-05 19:21:31.4667 INFO Read file from apiData.txt
+2021-03-05 19:21:31.4667 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:21:31.4667 INFO Try read cart
+2021-03-05 19:21:32.2959 INFO Start add product test
+2021-03-05 19:21:32.2959 INFO Read file from apiData.txt
+2021-03-05 19:21:32.2959 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:21:32.2959 INFO Try add product to cart
+2021-03-05 19:21:32.4583 INFO End add product test
+2021-03-05 19:21:32.4667 INFO Start remove product test
+2021-03-05 19:21:32.4667 INFO Read file from apiData.txt
+2021-03-05 19:21:32.4667 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:21:33.0548 INFO Start check product test
+2021-03-05 19:21:33.0587 INFO Read file from apiData.txt
+2021-03-05 19:21:33.0587 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:21:33.0747 INFO Start check remove product test
+2021-03-05 19:22:45.8849 INFO Start Get Token test
+2021-03-05 19:22:47.7276 INFO Try write file to apiData.txt
+2021-03-05 19:22:47.7356 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:22:47.7356 INFO End Get Token test
+2021-03-05 19:22:47.7466 INFO Start read cart test
+2021-03-05 19:22:47.7466 INFO Read file from apiData.txt
+2021-03-05 19:22:47.7466 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:22:47.7466 INFO Try read cart
+2021-03-05 19:22:48.5346 INFO Start add product test
+2021-03-05 19:22:48.5346 INFO Read file from apiData.txt
+2021-03-05 19:22:48.5346 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:22:48.5426 INFO Try add product to cart
+2021-03-05 19:22:48.6446 INFO End add product test
+2021-03-05 19:22:48.6446 INFO Start remove product test
+2021-03-05 19:22:48.6446 INFO Read file from apiData.txt
+2021-03-05 19:22:48.6526 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:22:49.3956 INFO Start check product test
+2021-03-05 19:22:49.3956 INFO Read file from apiData.txt
+2021-03-05 19:22:49.4016 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:22:49.4016 INFO Start check remove product test
+2021-03-05 19:30:17.1001 INFO Start Get Token test
+2021-03-05 19:30:19.1190 INFO Try write file to apiData.txt
+2021-03-05 19:30:19.1270 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:30:19.1270 INFO End Get Token test
+2021-03-05 19:30:19.1390 INFO Start read cart test
+2021-03-05 19:30:19.1390 INFO Read file from apiData.txt
+2021-03-05 19:30:19.1390 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:30:19.1390 INFO Try read cart
+2021-03-05 19:30:20.0029 INFO Start add product test
+2021-03-05 19:30:20.0029 INFO Read file from apiData.txt
+2021-03-05 19:30:20.0029 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:30:20.0159 INFO Try add product to cart
+2021-03-05 19:30:20.1402 INFO End add product test
+2021-03-05 19:30:20.1402 INFO Start remove product test
+2021-03-05 19:30:20.1402 INFO Read file from apiData.txt
+2021-03-05 19:30:20.1549 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:30:20.9039 INFO Start check product test
+2021-03-05 19:30:20.9039 INFO Read file from apiData.txt
+2021-03-05 19:30:20.9039 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:30:20.9229 INFO Start check remove product test
+2021-03-05 19:31:50.0539 INFO Start Get Token test
+2021-03-05 19:31:51.9198 INFO Try write file to apiData.txt
+2021-03-05 19:31:51.9198 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:31:51.9346 INFO End Get Token test
+2021-03-05 19:31:51.9486 INFO Start read cart test
+2021-03-05 19:31:51.9486 INFO Read file from apiData.txt
+2021-03-05 19:31:51.9486 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:31:51.9486 INFO Try read cart
+2021-03-05 19:31:52.8342 INFO Start add product test
+2021-03-05 19:31:52.8342 INFO Read file from apiData.txt
+2021-03-05 19:31:52.8402 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:31:52.8402 INFO Try add product to cart
+2021-03-05 19:31:52.9787 INFO End add product test
+2021-03-05 19:31:52.9787 INFO Start remove product test
+2021-03-05 19:31:52.9787 INFO Read file from apiData.txt
+2021-03-05 19:31:52.9787 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:31:53.7041 INFO Start check product test
+2021-03-05 19:31:53.7041 INFO Read file from apiData.txt
+2021-03-05 19:31:53.7041 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:31:53.7225 INFO Start check remove product test
+2021-03-05 19:33:42.0357 INFO Start Get Token test
+2021-03-05 19:33:43.8591 INFO Try write file to apiData.txt
+2021-03-05 19:33:43.8671 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:33:43.8671 INFO End Get Token test
+2021-03-05 19:33:43.8671 INFO Start read cart test
+2021-03-05 19:33:43.8831 INFO Read file from apiData.txt
+2021-03-05 19:33:43.8831 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:33:43.8831 INFO Try read cart
+2021-03-05 19:33:45.1131 INFO Start add product test
+2021-03-05 19:33:45.1161 INFO Read file from apiData.txt
+2021-03-05 19:33:45.1161 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:33:45.1161 INFO Try add product to cart
+2021-03-05 19:33:45.3821 INFO End add product test
+2021-03-05 19:33:45.3821 INFO Start remove product test
+2021-03-05 19:33:45.3821 INFO Read file from apiData.txt
+2021-03-05 19:33:45.3821 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:33:46.0680 INFO Start check product test
+2021-03-05 19:33:46.0711 INFO Read file from apiData.txt
+2021-03-05 19:33:46.0711 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:33:46.0850 INFO Start check remove product test
+2021-03-05 19:34:20.7106 INFO Start Get Token test
+2021-03-05 19:34:22.8725 INFO Try write file to apiData.txt
+2021-03-05 19:34:22.8806 ERROR Error writing to file. Kode(Access to the path 'E:\apiData.txt' is denied.)
+2021-03-05 19:34:22.8806 INFO End Get Token test
+2021-03-05 19:34:22.8806 INFO Start read cart test
+2021-03-05 19:34:22.8965 INFO Read file from apiData.txt
+2021-03-05 19:34:22.8965 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:34:22.8965 INFO Try read cart
+2021-03-05 19:34:23.7185 INFO Start add product test
+2021-03-05 19:34:23.7245 INFO Read file from apiData.txt
+2021-03-05 19:34:23.7245 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:34:23.7245 INFO Try add product to cart
+2021-03-05 19:34:23.8605 INFO End add product test
+2021-03-05 19:34:23.8605 INFO Start remove product test
+2021-03-05 19:34:23.8680 INFO Read file from apiData.txt
+2021-03-05 19:34:23.8680 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:34:24.5356 INFO Start check product test
+2021-03-05 19:34:24.5387 INFO Read file from apiData.txt
+2021-03-05 19:34:24.5387 ERROR The file was not read. Kode(Could not find file 'E:\apiData.txt'.)
+2021-03-05 19:34:24.5536 INFO Start check remove product test
+2021-03-05 20:03:21.4545 INFO Start Get Token test
+2021-03-05 20:03:23.4064 INFO Try write file to apiData.txt
+2021-03-05 20:03:23.4064 INFO Writing to file is successful
+2021-03-05 20:03:23.4184 INFO End Get Token test
+2021-03-05 20:03:23.4184 INFO Start read cart test
+2021-03-05 20:03:23.4354 INFO Read file from apiData.txt
+2021-03-05 20:03:23.4354 INFO File read, apiToken = 
+2021-03-05 20:03:23.4354 INFO Try read cart
+2021-03-05 20:03:24.4114 INFO Start add product test
+2021-03-05 20:03:24.4114 INFO Read file from apiData.txt
+2021-03-05 20:03:24.4114 INFO File read, apiToken = 
+2021-03-05 20:03:24.4224 INFO Try add product to cart
+2021-03-05 20:03:24.5294 INFO End add product test
+2021-03-05 20:03:24.5294 INFO Start remove product test
+2021-03-05 20:03:24.5294 INFO Read file from apiData.txt
+2021-03-05 20:03:24.5294 INFO File read, apiToken = 
+2021-03-05 20:03:25.2503 INFO Start check product test
+2021-03-05 20:03:25.2503 INFO Read file from apiData.txt
+2021-03-05 20:03:25.2503 INFO File read, apiToken = 
+2021-03-05 20:03:25.2703 INFO Start check remove product test
+2021-03-05 20:05:13.7920 INFO Start Get Token test
+2021-03-05 20:05:15.7130 INFO Try write file to apiData.txt
+2021-03-05 20:05:15.7170 INFO Writing to file is successful
+2021-03-05 20:05:15.7170 INFO End Get Token test
+2021-03-05 20:05:15.7331 INFO Start read cart test
+2021-03-05 20:05:15.7331 INFO Read file from apiData.txt
+2021-03-05 20:05:15.7331 INFO File read, apiToken = 
+2021-03-05 20:05:15.7449 INFO Try read cart
+2021-03-05 20:05:16.6989 INFO Start add product test
+2021-03-05 20:05:16.6989 INFO Read file from apiData.txt
+2021-03-05 20:05:16.6989 INFO File read, apiToken = 
+2021-03-05 20:05:16.6989 INFO Try add product to cart
+2021-03-05 20:05:16.8354 INFO End add product test
+2021-03-05 20:05:16.8389 INFO Start remove product test
+2021-03-05 20:05:16.8389 INFO Read file from apiData.txt
+2021-03-05 20:05:16.8389 INFO File read, apiToken = 
+2021-03-05 20:05:17.4850 INFO Start check product test
+2021-03-05 20:05:17.4850 INFO Read file from apiData.txt
+2021-03-05 20:05:17.4850 INFO File read, apiToken = 
+2021-03-05 20:05:17.5019 INFO Start check remove product test
+2021-03-05 20:16:12.2790 INFO Start Get Token test
+2021-03-05 20:16:15.4600 INFO Try write file to apiData.txt
+2021-03-05 20:16:15.4600 INFO Writing to file is successful
+2021-03-05 20:16:15.4600 INFO End Get Token test
+2021-03-05 20:16:15.4600 INFO Start read cart test
+2021-03-05 20:16:15.4740 INFO Read file from apiData.txt
+2021-03-05 20:16:15.4740 INFO File read, apiToken = 
+2021-03-05 20:16:15.4740 INFO Try read cart
+2021-03-05 20:16:18.8429 INFO Start add product test
+2021-03-05 20:16:18.8429 INFO Read file from apiData.txt
+2021-03-05 20:16:18.8489 INFO File read, apiToken = 
+2021-03-05 20:16:18.8489 INFO Try add product to cart
+2021-03-05 20:16:19.0259 INFO End add product test
+2021-03-05 20:18:54.1599 INFO Start Get Token test
+2021-03-05 20:18:55.6279 INFO Try write file to apiData.txt
+2021-03-05 20:18:55.6279 INFO Writing to file is successful
+2021-03-05 20:18:55.6279 INFO End Get Token test
+2021-03-05 20:18:55.6279 INFO Start read cart test
+2021-03-05 20:18:55.6279 INFO Read file from apiData.txt
+2021-03-05 20:18:55.6449 INFO File read, apiToken = 
+2021-03-05 20:18:55.6449 INFO Try read cart
+2021-03-05 20:18:55.8919 INFO Start add product test
+2021-03-05 20:18:55.8950 INFO Read file from apiData.txt
+2021-03-05 20:18:55.8950 INFO File read, apiToken = 
+2021-03-05 20:18:55.8950 INFO Try add product to cart
+2021-03-05 20:18:56.0189 INFO End add product test
+2021-03-05 20:24:16.7622 INFO Start Get Token test
+2021-03-05 20:24:18.7418 INFO Try write file to apiData.txt
+2021-03-05 20:24:18.7418 INFO Writing to file is successful
+2021-03-05 20:24:18.7418 INFO End Get Token test
+2021-03-05 20:24:18.7595 INFO Start read cart test
+2021-03-05 20:24:18.7595 INFO Read file from apiData.txt
+2021-03-05 20:24:18.7595 INFO File read, apiToken = 
+2021-03-05 20:24:18.7688 INFO Try read cart
+2021-03-05 20:24:19.1329 INFO Start add product test
+2021-03-05 20:24:19.1329 INFO Read file from apiData.txt
+2021-03-05 20:24:19.1329 INFO File read, apiToken = 
+2021-03-05 20:24:19.1429 INFO Try add product to cart
+2021-03-05 20:24:19.3072 INFO End add product test
+2021-03-05 20:27:21.6676 INFO Start Get Token test
+2021-03-05 20:27:23.3156 INFO Try write file to apiData.txt
+2021-03-05 20:27:23.3156 INFO Writing to file is successful
+2021-03-05 20:27:23.3156 INFO End Get Token test
+2021-03-05 20:27:23.3286 INFO Start read cart test
+2021-03-05 20:27:23.3286 INFO Read file from apiData.txt
+2021-03-05 20:27:23.3286 INFO File read, apiToken = 
+2021-03-05 20:27:23.3286 INFO Try read cart
+2021-03-05 20:27:23.4716 INFO Start add product test
+2021-03-05 20:27:23.4716 INFO Read file from apiData.txt
+2021-03-05 20:27:23.4716 INFO File read, apiToken = 
+2021-03-05 20:27:23.4716 INFO Try add product to cart
+2021-03-05 20:27:23.5766 INFO End add product test
+2021-03-05 20:30:40.5003 INFO Start Get Token test
+2021-03-05 20:30:42.3503 INFO Try write file to apiData.txt
+2021-03-05 20:30:42.3503 INFO Writing to file is successful
+2021-03-05 20:30:42.4003 INFO End Get Token test
+2021-03-05 20:30:42.4103 INFO Start read cart test
+2021-03-05 20:30:42.4103 INFO Read file from apiData.txt
+2021-03-05 20:30:42.4103 INFO File read, apiToken = ed407e9b9ac752aff9b9c86df8
+2021-03-05 20:30:42.4213 INFO Try read cart
+2021-03-05 20:30:42.7313 INFO End read cart test
+2021-03-05 20:30:42.7353 INFO Start add product test
+2021-03-05 20:30:42.7353 INFO Read file from apiData.txt
+2021-03-05 20:30:42.7353 INFO File read, apiToken = ed407e9b9ac752aff9b9c86df8
+2021-03-05 20:30:42.7353 INFO Try add product to cart
+2021-03-05 20:30:43.4403 INFO End add product test
+2021-03-05 20:32:24.8612 INFO Start Get Token test
+2021-03-05 20:32:26.7762 INFO Try write file to apiData.txt
+2021-03-05 20:32:26.7822 INFO Writing to file is successful
+2021-03-05 20:32:26.7992 INFO End Get Token test
+2021-03-05 20:32:26.7992 INFO Start read cart test
+2021-03-05 20:32:26.7992 INFO Read file from apiData.txt
+2021-03-05 20:32:26.8142 INFO File read, apiToken = 8a9c1fcfb65a9dfa3b585d7990
+2021-03-05 20:32:26.8142 INFO Try read cart
+2021-03-05 20:32:27.2162 INFO End read cart test
+2021-03-05 20:32:27.2202 INFO Start add product test
+2021-03-05 20:32:27.2202 INFO Read file from apiData.txt
+2021-03-05 20:32:27.2202 INFO File read, apiToken = 8a9c1fcfb65a9dfa3b585d7990
+2021-03-05 20:32:27.2202 INFO Try add product to cart
+2021-03-05 20:32:27.5132 INFO End add product test
+2021-03-05 20:35:27.1432 INFO Start Get Token test
+2021-03-05 20:35:29.8372 INFO Try write file to apiData.txt
+2021-03-05 20:35:29.8422 INFO Writing to file is successful
+2021-03-05 20:35:29.9112 INFO End Get Token test
+2021-03-05 20:35:29.9272 INFO Start read cart test
+2021-03-05 20:35:29.9352 INFO Read file from apiData.txt
+2021-03-05 20:35:29.9352 INFO File read, apiToken = 781524253f7a7216f0ff15e542
+2021-03-05 20:35:29.9352 INFO Try read cart
+2021-03-05 20:35:30.3992 INFO End read cart test
+2021-03-05 20:35:30.3992 INFO Start add product test
+2021-03-05 20:35:30.4062 INFO Read file from apiData.txt
+2021-03-05 20:35:30.4062 INFO File read, apiToken = 781524253f7a7216f0ff15e542
+2021-03-05 20:35:30.4062 INFO Try add product to cart
+2021-03-05 20:35:30.6392 INFO End add product test
+2021-03-05 20:35:30.6392 INFO Start remove product test
+2021-03-05 20:35:30.6392 INFO Read file from apiData.txt
+2021-03-05 20:35:30.6392 INFO File read, apiToken = 781524253f7a7216f0ff15e542
+2021-03-05 20:35:33.7241 INFO Start check product test
+2021-03-05 20:35:33.7241 INFO Read file from apiData.txt
+2021-03-05 20:35:33.7241 INFO File read, apiToken = 781524253f7a7216f0ff15e542
+2021-03-05 20:35:33.7491 INFO Start check remove product test
+2021-03-05 20:38:29.7537 INFO Start Get Token test
+2021-03-05 20:38:31.5657 INFO Try write file to apiData.txt
+2021-03-05 20:38:31.5657 INFO Writing to file is successful
+2021-03-05 20:38:31.5817 INFO End Get Token test
+2021-03-05 20:38:31.5907 INFO Start read cart test
+2021-03-05 20:38:31.5907 INFO Read file from apiData.txt
+2021-03-05 20:38:31.5907 INFO File read, apiToken = 29dff91a14f8636238171e794d
+2021-03-05 20:38:31.5907 INFO Try read cart
+2021-03-05 20:38:32.0547 INFO End read cart test
+2021-03-05 20:38:32.0547 INFO Start add product test
+2021-03-05 20:38:32.0617 INFO Read file from apiData.txt
+2021-03-05 20:38:32.0617 INFO File read, apiToken = 29dff91a14f8636238171e794d
+2021-03-05 20:38:32.0617 INFO Try add product to cart
+2021-03-05 20:38:32.4397 INFO End add product test
+2021-03-05 20:38:32.4397 INFO Start remove product test
+2021-03-05 20:38:32.4397 INFO Read file from apiData.txt
+2021-03-05 20:38:32.4397 INFO File read, apiToken = 29dff91a14f8636238171e794d
+2021-03-05 20:38:33.3247 INFO Start check product test
+2021-03-05 20:38:33.3277 INFO Read file from apiData.txt
+2021-03-05 20:38:33.3277 INFO File read, apiToken = 29dff91a14f8636238171e794d
+2021-03-05 20:38:33.3437 INFO Start check remove product test
+2021-03-05 20:47:03.2884 INFO Start Get Token test
+2021-03-05 20:47:05.3764 INFO Try write file to apiData.txt
+2021-03-05 20:47:05.3764 INFO Writing to file is successful
+2021-03-05 20:47:05.3874 INFO End Get Token test
+2021-03-05 20:47:05.3874 INFO Start read cart test
+2021-03-05 20:47:05.3874 INFO Read file from apiData.txt
+2021-03-05 20:47:05.3874 INFO File read, apiToken = 5ad488e2aa57f804f8aa5e8148
+2021-03-05 20:47:05.3874 INFO Try read cart
+2021-03-05 20:47:05.7654 INFO End read cart test
+2021-03-05 20:47:05.7654 INFO Start add product test
+2021-03-05 20:47:05.7654 INFO Read file from apiData.txt
+2021-03-05 20:47:05.7654 INFO File read, apiToken = 5ad488e2aa57f804f8aa5e8148
+2021-03-05 20:47:05.7654 INFO Try add product to cart
+2021-03-05 20:47:05.9834 INFO End add product test
+2021-03-05 20:47:05.9834 INFO Start remove product test
+2021-03-05 20:47:05.9834 INFO Read file from apiData.txt
+2021-03-05 20:47:05.9834 INFO File read, apiToken = 5ad488e2aa57f804f8aa5e8148
+2021-03-05 20:47:08.7494 INFO End remove product test
+2021-03-05 20:47:08.7494 INFO Start check product test
+2021-03-05 20:47:08.7954 INFO Read file from apiData.txt
+2021-03-05 20:47:08.7954 INFO File read, apiToken = 5ad488e2aa57f804f8aa5e8148
+2021-03-05 20:47:08.9274 INFO End check product test
+2021-03-05 20:47:08.9274 INFO Start check remove product test
+2021-03-05 20:47:36.3227 INFO Start Get Token test
+2021-03-05 20:47:37.6097 INFO Try write file to apiData.txt
+2021-03-05 20:47:37.6097 INFO Writing to file is successful
+2021-03-05 20:47:37.6097 INFO End Get Token test
+2021-03-05 20:47:37.6237 INFO Start read cart test
+2021-03-05 20:47:37.6237 INFO Read file from apiData.txt
+2021-03-05 20:47:37.6237 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:47:37.6237 INFO Try read cart
+2021-03-05 20:47:37.8527 INFO End read cart test
+2021-03-05 20:47:37.8547 INFO Start add product test
+2021-03-05 20:47:37.8547 INFO Read file from apiData.txt
+2021-03-05 20:47:37.8727 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:47:37.8727 INFO Try add product to cart
+2021-03-05 20:47:38.2007 INFO End add product test
+2021-03-05 20:47:38.2007 INFO Start remove product test
+2021-03-05 20:47:38.2007 INFO Read file from apiData.txt
+2021-03-05 20:47:38.2007 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:47:38.8747 INFO End remove product test
+2021-03-05 20:47:38.8747 INFO Start check product test
+2021-03-05 20:47:38.8747 INFO Read file from apiData.txt
+2021-03-05 20:47:38.8747 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:47:38.9887 INFO End check product test
+2021-03-05 20:47:38.9887 INFO Start check remove product test
+2021-03-05 20:51:19.2119 INFO Start remove product test
+2021-03-05 20:51:19.2489 INFO Read file from apiData.txt
+2021-03-05 20:51:19.2489 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:51:20.8788 INFO End remove product test
+2021-03-05 20:51:30.4714 INFO Start check remove product test
+2021-03-05 20:51:42.4664 INFO Start remove product test
+2021-03-05 20:51:42.4924 INFO Read file from apiData.txt
+2021-03-05 20:51:42.4964 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:51:43.5794 INFO End remove product test
+2021-03-05 20:51:49.6164 INFO Start remove product test
+2021-03-05 20:51:49.6424 INFO Read file from apiData.txt
+2021-03-05 20:51:49.6424 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:51:50.7844 INFO End remove product test
+2021-03-05 20:51:56.7474 INFO Start remove product test
+2021-03-05 20:51:56.8724 INFO Read file from apiData.txt
+2021-03-05 20:51:56.9134 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:51:58.2724 INFO End remove product test
+2021-03-05 20:52:58.3704 INFO Start remove product test
+2021-03-05 20:52:58.4154 INFO Read file from apiData.txt
+2021-03-05 20:52:58.4154 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:52:59.6724 INFO End remove product test
+2021-03-05 20:53:06.3364 INFO Start remove product test
+2021-03-05 20:53:06.3654 INFO Read file from apiData.txt
+2021-03-05 20:53:06.3684 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:53:07.4864 INFO End remove product test
+2021-03-05 20:53:36.0734 INFO Start remove product test
+2021-03-05 20:53:36.1124 INFO Read file from apiData.txt
+2021-03-05 20:53:36.1124 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:53:37.5134 INFO End remove product test
+2021-03-05 20:53:43.5324 INFO Start remove product test
+2021-03-05 20:53:43.5604 INFO Read file from apiData.txt
+2021-03-05 20:53:43.5604 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:53:44.6665 INFO End remove product test
+2021-03-05 20:53:50.8769 INFO Start remove product test
+2021-03-05 20:53:50.9219 INFO Read file from apiData.txt
+2021-03-05 20:53:50.9219 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:53:52.0729 INFO End remove product test
+2021-03-05 20:54:06.4832 INFO Start remove product test
+2021-03-05 20:54:06.5122 INFO Read file from apiData.txt
+2021-03-05 20:54:06.5122 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:54:07.5592 INFO End remove product test
+2021-03-05 20:54:23.9278 INFO Start remove product test
+2021-03-05 20:54:23.9628 INFO Read file from apiData.txt
+2021-03-05 20:54:23.9628 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:54:24.9938 INFO End remove product test
+2021-03-05 20:54:31.5604 INFO Start check remove product test
+2021-03-05 20:54:38.3494 INFO Start remove product test
+2021-03-05 20:54:38.3854 INFO Read file from apiData.txt
+2021-03-05 20:54:38.3854 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:54:39.4174 INFO End remove product test
+2021-03-05 20:54:45.5596 INFO Start remove product test
+2021-03-05 20:54:45.6016 INFO Read file from apiData.txt
+2021-03-05 20:54:45.6046 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:54:46.6996 INFO End remove product test
+2021-03-05 20:54:52.3995 INFO Start remove product test
+2021-03-05 20:54:52.4365 INFO Read file from apiData.txt
+2021-03-05 20:54:52.4365 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:54:53.5385 INFO End remove product test
+2021-03-05 20:57:20.1852 INFO Start remove product test
+2021-03-05 20:57:20.2142 INFO Read file from apiData.txt
+2021-03-05 20:57:20.2142 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 20:57:21.5392 INFO End remove product test
+2021-03-05 20:58:32.9990 INFO Start check remove product test
+2021-03-05 20:59:25.1324 INFO Start check remove product test
+2021-03-05 20:59:25.5904 INFO End check remove product test
+2021-03-05 20:59:38.1052 INFO Start check remove product test
+2021-03-05 21:10:34.5413 INFO Start remove product test
+2021-03-05 21:10:34.5923 INFO Read file from apiData.txt
+2021-03-05 21:10:34.5923 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:10:35.6653 INFO End remove product test
+2021-03-05 21:12:04.3767 INFO Start remove product test
+2021-03-05 21:12:04.4117 INFO Read file from apiData.txt
+2021-03-05 21:12:04.4147 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:05.5018 INFO End remove product test
+2021-03-05 21:12:11.4247 INFO Start remove product test
+2021-03-05 21:12:11.4557 INFO Read file from apiData.txt
+2021-03-05 21:12:11.4557 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:12.5177 INFO End remove product test
+2021-03-05 21:12:17.5557 INFO Start remove product test
+2021-03-05 21:12:17.5867 INFO Read file from apiData.txt
+2021-03-05 21:12:17.5867 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:18.5797 INFO End remove product test
+2021-03-05 21:12:25.1227 INFO Start remove product test
+2021-03-05 21:12:25.1527 INFO Read file from apiData.txt
+2021-03-05 21:12:25.1527 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:26.1797 INFO End remove product test
+2021-03-05 21:12:35.5650 INFO Start remove product test
+2021-03-05 21:12:35.5960 INFO Read file from apiData.txt
+2021-03-05 21:12:35.5960 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:36.6630 INFO End remove product test
+2021-03-05 21:12:43.5269 INFO Start remove product test
+2021-03-05 21:12:43.5679 INFO Read file from apiData.txt
+2021-03-05 21:12:43.5709 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:44.6909 INFO End remove product test
+2021-03-05 21:12:50.8479 INFO Start remove product test
+2021-03-05 21:12:50.8739 INFO Read file from apiData.txt
+2021-03-05 21:12:50.8739 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:51.9169 INFO End remove product test
+2021-03-05 21:12:57.4419 INFO Start remove product test
+2021-03-05 21:12:57.4789 INFO Read file from apiData.txt
+2021-03-05 21:12:57.4789 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:12:58.6999 INFO End remove product test
+2021-03-05 21:13:06.9488 INFO Start remove product test
+2021-03-05 21:13:06.9809 INFO Read file from apiData.txt
+2021-03-05 21:13:06.9809 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:08.0348 INFO End remove product test
+2021-03-05 21:13:14.9785 INFO Start remove product test
+2021-03-05 21:13:15.0155 INFO Read file from apiData.txt
+2021-03-05 21:13:15.0155 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:16.0715 INFO End remove product test
+2021-03-05 21:13:21.3065 INFO Start remove product test
+2021-03-05 21:13:21.3465 INFO Read file from apiData.txt
+2021-03-05 21:13:21.3465 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:22.2065 INFO End remove product test
+2021-03-05 21:13:26.9416 INFO Start remove product test
+2021-03-05 21:13:26.9816 INFO Read file from apiData.txt
+2021-03-05 21:13:26.9816 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:28.0506 INFO End remove product test
+2021-03-05 21:13:34.0736 INFO Start remove product test
+2021-03-05 21:13:34.1086 INFO Read file from apiData.txt
+2021-03-05 21:13:34.1086 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:35.1765 INFO End remove product test
+2021-03-05 21:13:40.8845 INFO Start remove product test
+2021-03-05 21:13:40.9135 INFO Read file from apiData.txt
+2021-03-05 21:13:40.9135 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:41.9854 INFO End remove product test
+2021-03-05 21:13:48.5084 INFO Start remove product test
+2021-03-05 21:13:48.5354 INFO Read file from apiData.txt
+2021-03-05 21:13:48.5384 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:49.5934 INFO End remove product test
+2021-03-05 21:13:54.9154 INFO Start remove product test
+2021-03-05 21:13:54.9544 INFO Read file from apiData.txt
+2021-03-05 21:13:54.9544 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:13:55.8564 INFO End remove product test
+2021-03-05 21:14:01.5414 INFO Start remove product test
+2021-03-05 21:14:01.5694 INFO Read file from apiData.txt
+2021-03-05 21:14:01.5694 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:02.4244 INFO End remove product test
+2021-03-05 21:14:10.9705 INFO Start remove product test
+2021-03-05 21:14:11.0075 INFO Read file from apiData.txt
+2021-03-05 21:14:11.0075 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:11.9205 INFO End remove product test
+2021-03-05 21:14:16.8651 INFO Start remove product test
+2021-03-05 21:14:16.9041 INFO Read file from apiData.txt
+2021-03-05 21:14:16.9041 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:17.9471 INFO End remove product test
+2021-03-05 21:14:23.5051 INFO Start remove product test
+2021-03-05 21:14:23.5411 INFO Read file from apiData.txt
+2021-03-05 21:14:23.5411 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:24.5931 INFO End remove product test
+2021-03-05 21:14:29.6411 INFO Start remove product test
+2021-03-05 21:14:29.6771 INFO Read file from apiData.txt
+2021-03-05 21:14:29.6801 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:30.7081 INFO End remove product test
+2021-03-05 21:14:36.3871 INFO Start remove product test
+2021-03-05 21:14:36.4131 INFO Read file from apiData.txt
+2021-03-05 21:14:36.4131 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:37.2621 INFO End remove product test
+2021-03-05 21:14:43.3793 INFO Start remove product test
+2021-03-05 21:14:43.4123 INFO Read file from apiData.txt
+2021-03-05 21:14:43.4123 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:14:44.5013 INFO End remove product test
+2021-03-05 21:15:46.1767 INFO Start remove product test
+2021-03-05 21:15:46.2057 INFO Read file from apiData.txt
+2021-03-05 21:15:46.2057 INFO File read, apiToken = 4c101cf2251aa96d84a0ef2857
+2021-03-05 21:15:47.2357 INFO End remove product test
+2021-03-05 21:15:55.7587 INFO Start check remove product test
+2021-03-05 21:15:56.3477 INFO End check remove product test
