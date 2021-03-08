@@ -1,0 +1,67 @@
+{
+  "uuid": "54462065-e008-4e74-a888-7773b98e8d7e-tr-0-1011",
+  "historyId": "Framework.Test.CheckPageItemsTest.CheckNotebook",
+  "fullName": "Framework.Test.CheckPageItemsTest.CheckNotebook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-E64K9RE"
+    },
+    {
+      "name": "testClass",
+      "value": "Framework.Test.CheckPageItemsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckNotebook"
+    },
+    {
+      "name": "package",
+      "value": "Framework.Test.CheckPageItemsTest"
+    }
+  ],
+  "links": [],
+  "name": "CheckNotebook",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/nav/div[2]/ul/li[2]/a\"}\n  (Session info: chrome=89.0.4389.72)",
+    "trace": "   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)\r\n   в OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)\r\n   в OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)\r\n   в Pages.BasePage.MouseHover(IWebDriver driver, String Element) в C:\\Users\\Vlad\\Documents\\GitHub\\Framework\\Framework V2\\Framework\\Pages\\BasePage.cs:строка 44\r\n   в Framework.Test.CheckPageItemsTest.CheckNotebook() в C:\\Users\\Vlad\\Documents\\GitHub\\Framework\\Framework V2\\Framework\\Test\\TestUI\\CheckPageItemsTest.cs:строка 52"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CheckNotebook",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[1]/nav/div[2]/ul/li[2]/a\"}\n  (Session info: chrome=89.0.4389.72)",
+        "trace": "   в OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)\r\n   в OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)\r\n   в OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   в OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)\r\n   в Pages.BasePage.MouseHover(IWebDriver driver, String Element) в C:\\Users\\Vlad\\Documents\\GitHub\\Framework\\Framework V2\\Framework\\Pages\\BasePage.cs:строка 44\r\n   в Framework.Test.CheckPageItemsTest.CheckNotebook() в C:\\Users\\Vlad\\Documents\\GitHub\\Framework\\Framework V2\\Framework\\Test\\TestUI\\CheckPageItemsTest.cs:строка 52"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "1c64de3ab1b74dfe9d266d49481606f9-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1615222198884,
+      "stop": 1615222198921
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1615222198884,
+  "stop": 1615222198921
+}

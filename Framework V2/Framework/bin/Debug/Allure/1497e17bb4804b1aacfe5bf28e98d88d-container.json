@@ -1,0 +1,46 @@
+{
+  "uuid": "c53f4231-9a59-40f3-8876-d64f72765199-tc-0-1009",
+  "name": "Framework.Test.CheckPageItemsTest.CheckNotebook",
+  "children": [
+    "f147d8db-acc4-4b26-b15e-19564bcad555-tr-0-1011"
+  ],
+  "befores": [
+    {
+      "name": "StartTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1615221895163,
+      "stop": 1615221895163
+    }
+  ],
+  "afters": [
+    {
+      "name": "EndTest",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1615221895163,
+      "stop": 1615221895163
+    }
+  ],
+  "links": [],
+  "start": 1615221895115,
+  "stop": 1615221895165
+}

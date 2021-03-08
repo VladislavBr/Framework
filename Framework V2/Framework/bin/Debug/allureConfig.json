@@ -1,0 +1,9 @@
+{
+  "allure": {
+    "directory": "C:/Users/Vlad/Documents/GitHub/Framework/Framework V2/Framework/bin/Debug/Allure",
+    "links": [
+      "https://example.org/{issue}",
+      "https://example.org/{tms}"
+    ]
+  }
+}

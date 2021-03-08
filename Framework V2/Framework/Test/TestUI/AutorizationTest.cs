@@ -16,32 +16,29 @@ using OpenQA.Selenium.Remote;
 
 namespace Framework.Test
 {
-	//[TestFixture]
 	[AllureNUnit]
 	class AutorizationTest
 	{
-		private IWebDriver _driver;
-		//public IWebDriver driver;
+		private IWebDriver driver;
 		[OneTimeSetUp]
 		public void StartTest()
 		{
-			
-			BrowserOption br = new BrowserOption();
-			_driver = br.OptionForSelenoid();
+			BrowserOption StartInDocker = new BrowserOption();
+			driver = StartInDocker.OptionForSelenoid();
 			
 		}
 		[OneTimeTearDown]
 		public void EndTest()
 		{
-			_driver.Quit();
+			driver.Quit();
 		}
 		[Test]
 		public void AutorizationPageTest()
 		{
 			//Step
-			AutorizationPage.AuthorizationPageTest(_driver, User.GetUser());
+			AutorizationPage.AuthorizationPageTest(driver, User.GetUser());
 			//Verefication
-			Assert.AreEqual(_driver.Url, AutorizationPage.loginPageVereficationUrl);
+			Assert.AreEqual(driver.Url, AutorizationPage.loginPageVereficationUrl);
 		}
 	}
 }

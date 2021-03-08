@@ -12,15 +12,12 @@ namespace Framework.Test
 {
 	class BrowserOption
 	{
-		private IWebDriver _driver;
+		private IWebDriver driver;
 		public static ChromeOptions BrowserSettings()
 		{
 			ChromeOptions options = new ChromeOptions();
 			options.AddArgument("start-maximized");   
 			options.AddArgument("disable-infobars");
-			//options.AddArgument("title = GG");
-			//options.AddArgument("headless");
-			//options.AddArgument("user-data-dir=C:\\Users\\Vlad\\AppData\\Local\\Google\\Chrome\\User Data\\Default");
 			return options;
 		}
 		public IWebDriver OptionForSelenoid()
@@ -36,9 +33,9 @@ namespace Framework.Test
 			driverOptions.AddAdditionalCapability("enableVideo", true, true);
 			driverOptions.AddAdditionalCapability("enableLog", true, true);
 			driverOptions.AddAdditionalCapability("screenResolution", "1920x1080x24", true);
-			_driver = new RemoteWebDriver(new Uri("http://127.0.0.1:8080/wd/hub"), driverOptions);
-			_driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30);
-			return _driver;
+			driver = new RemoteWebDriver(new Uri("http://127.0.0.1:8080/wd/hub"), driverOptions);
+			driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30);
+			return driver;
 		}
 	}
 }

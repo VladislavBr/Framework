@@ -19,12 +19,12 @@ namespace Framework.Test
 	class CheckPageItemsTest
 	{
 
-		public IWebDriver driver;
+		private IWebDriver driver;
 		[OneTimeSetUp]
 		public void StartTest()
 		{
-			driver = new ChromeDriver(BrowserOption.BrowserSettings());
-			driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+			BrowserOption StartInDocker = new BrowserOption();
+			driver = StartInDocker.OptionForSelenoid();
 			BasePage.goToSite(driver);
 		}
 		[OneTimeTearDown]

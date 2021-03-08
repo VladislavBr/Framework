@@ -38,6 +38,7 @@ namespace Pages
         public static string Cameras = "https://demo.opencart.com/index.php?route=product/category&amp;path=33";
         public static string UrlMP3Players = "https://demo.opencart.com/index.php?route=product/category&amp;path=34";
         public static string MP3Players = "/html/body/div[1]/nav/div[2]/ul/li[8]/div/a";
+		public static IWebDriver driver;
 
 		public static void MouseHover(IWebDriver driver, string Element)
 		{
