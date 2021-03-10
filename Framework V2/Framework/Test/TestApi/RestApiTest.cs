@@ -14,8 +14,7 @@ using RequestProject;
 
 namespace RequestProject
 {
-	//[TestFixture]
-	public class UnitTest1
+	public class RestApiTest
 	{
 		public Logger log = LogManager.GetCurrentClassLogger();
 		public string apiToken;

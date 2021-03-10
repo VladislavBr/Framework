@@ -185,7 +185,7 @@
     <Compile Include="Test\TestApi\Sql_request.cs" />
     <Compile Include="Test\TestUI\AutorizationTest.cs" />
     <Compile Include="Test\TestUI\CheckPageItemsTest.cs" />
-    <Compile Include="Test\TestApi\UnitTest1.cs" />
+    <Compile Include="Test\TestApi\RestApiTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="NLog.config">
