@@ -1,0 +1,63 @@
+{
+  "uuid": "68f567fe-13a0-44cf-b049-d1eb7f2848cc-tr-1-1003",
+  "historyId": "Framework.Test.CheckPageItemsTest.CheckDesktops",
+  "fullName": "Framework.Test.CheckPageItemsTest.CheckDesktops",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-E64K9RE"
+    },
+    {
+      "name": "testClass",
+      "value": "Framework.Test.CheckPageItemsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckDesktops"
+    },
+    {
+      "name": "package",
+      "value": "Framework.Test.CheckPageItemsTest"
+    }
+  ],
+  "links": [],
+  "name": "CheckDesktops",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "CheckDesktops",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "2b0dc86ab5084e2a874a4efc675f6032-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1615410435726,
+      "stop": 1615410438605
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1615410435726,
+  "stop": 1615410438605
+}
