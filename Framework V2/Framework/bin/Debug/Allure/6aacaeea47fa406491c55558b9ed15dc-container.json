@@ -1,0 +1,46 @@
+{
+  "uuid": "10745e8a-ccf1-4a6e-a091-2d6de6c5ae61-tc-1-1007",
+  "name": "Framework.Test.AutorizationTest.AutorizationPageTest",
+  "children": [
+    "c5b72006-05eb-4fdb-9609-a9526325bbf2-tr-1-1008"
+  ],
+  "befores": [
+    {
+      "name": "StartTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1615406028335,
+      "stop": 1615406028335
+    }
+  ],
+  "afters": [
+    {
+      "name": "EndTest",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1615406028338,
+      "stop": 1615406028338
+    }
+  ],
+  "links": [],
+  "start": 1615406018352,
+  "stop": 1615406028730
+}
