@@ -19,7 +19,7 @@ namespace RequestProject
 		public Logger log = LogManager.GetCurrentClassLogger();
 		public string apiToken;
 
-		[Test, Order(1)]
+		//[Test, Order(1)]
 		public void getToken()
 		{
 			log.Info("Start Get Token test");
@@ -74,7 +74,7 @@ namespace RequestProject
 			}
 
 		}
-		[Test,Order(2)]
+		//[Test,Order(2)]
 		public void getCart()
 		{
 			log.Info("Start read cart test");
@@ -99,7 +99,7 @@ namespace RequestProject
 			log.Info("End read cart test");
 
 		}
-		[Test, Order(3)]
+		//[Test, Order(3)]
 		public void addProductToCart()
 		{
 			log.Info("Start add product test");
@@ -124,7 +124,7 @@ namespace RequestProject
 			}
 			log.Info("End add product test");
 		}
-        [Test, Order(4)]
+        //[Test, Order(4)]
         public void removeProductFromCart()
         {
             log.Info("Start remove product test");
@@ -147,7 +147,7 @@ namespace RequestProject
 
             log.Info("End remove product test");
         }
-        [Test]
+        //[Test]
         public void checkProduct()
         {
             log.Info("Start check product test");
@@ -165,7 +165,7 @@ namespace RequestProject
             log.Info("End check product test");
 
         }
-        [Test]
+        //[Test]
         public void checkRemoveProduct()
         {
             log.Info("Start check remove product test");
