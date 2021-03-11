@@ -32,7 +32,7 @@ namespace Framework.Test
 		{
 			driver.Quit();
 		}
-		[Test]
+		//[Test]
 		public void AutorizationPageTest()
 		{
 			//Step

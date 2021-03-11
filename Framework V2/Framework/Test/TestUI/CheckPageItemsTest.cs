@@ -32,7 +32,7 @@ namespace Framework.Test
 		{
 			driver.Quit();
 		}
-		[Test]
+		//[Test]
 		public void CheckDesktops()
 		{
 			//Step	
@@ -43,7 +43,7 @@ namespace Framework.Test
 			
 
 		}
-		[Test]
+		//[Test]
 		public void CheckNotebook()
 		{
 			//step
